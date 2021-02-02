@@ -38,7 +38,7 @@ Tuesday | Making the required modifications
 We can add links like https://www.google.com/ just by copying the URL without doing any other code.
 
 
-## There are many features the markdown have, try to read this:
+## There are many features the markdown has, try to read this:
 https://guides.github.com/features/mastering-markdown/
 
 
