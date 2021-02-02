@@ -1,45 +1,30 @@
-# Markdown 
-***
-### We are here to learn some of markdown features
-***
-We Can make the word **BOLD** or *ITALIC* or maybe we need ***BOTH*** 
-***
-***
-### Sometimes we will need to add lists; **Unordered** like:
-* list 1 
-  * sub list 1 
-  * sub list 1
-* list 2 
- * sub-list 2 
- * sub-list 2
- *** 
-### Or **Ordered** one:
-1. list 3 
-1. list 4
-1. List 5
-   1. List 5A
-   1. List 5b
-***
-![Me at home because of this assignment!](https://thumbs.dreamstime.com/b/sleepy-programmer-feeling-exhausted-office-tired-everything-upset-tired-programming-specialist-sitting-tired-86410340.jpg)
-***
-***
-Also we can add blockqoutes using ">", just like the below qoute as a comment on the upper image:
-> Me at home because of this assignment!
-***
-### We also need tables in our job, here is a one :
+# **Growth Mindset**
+I've heard these words from more than one programmer, they said ***"We love problems, we are problems' solvers!"***
 
-Day          | Work
+So, I need to grow my mindset, which will help me to be more creative and to achieve more & higher goals. The most clear idea about growth mindset that one’s fundamental abilities can be developed.
+
+To keep up with the right way for growth mindset, I ‘ve some reminders make me more persevering:
+
+- **No pain, No gain** , which forced me to pay more efforts.
+-  **Don’t** avoid ***CHALLENGES***.
+-  **Success** of the others is inspiring and motivating me.
+
+> Today I used one of the reminders,  https://github.com/shadykh ‘s intelligence helped me a lot, many thanks Shady 😊
+
+***
+***
+### I listed another topics in the following table: 
+
+Learning Mark down          | <[Read: 02a - Learning Markdown](./Read-02a-Learning Markdown) >
 ------------ | -------------
 Sunday       | Drawing the Villa
 Monday       | Meeting with the owner
 Tuesday | Making the required modifications
 
 ***
-We can add links like https://www.google.com/ just by copying the URL without doing any other code.
 
 
-## There are many features the markdown has, try to read this:
-https://guides.github.com/features/mastering-markdown/
+<[Read: 02a - Learning Markdown](./Read-02a-Learning Markdown) >
 
 
 
