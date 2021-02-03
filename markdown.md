@@ -39,7 +39,8 @@ We can add links like https://www.google.com/ just by copying the URL without do
 
 
 ## There are many features the markdown has, try to read this:
-https://guides.github.com/features/mastering-markdown/
+[Click here](https://guides.github.com/features/mastering-markdown/)
+
 
 
 
