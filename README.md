@@ -23,8 +23,8 @@ Tuesday | Making the required modifications
 
 ***
 
-
-[Read: 02a - Learning Markdown] (./02a-Learning Markdown) 
+[Read:02a-Learning Markdown](./02a-Learning Markdown)
+[read](./02a - Learning Markdown)
 
 
 
