@@ -29,4 +29,3 @@ To keep up with the right way for growth mindset, I ‘ve some reminders make me
 
 
 
-
