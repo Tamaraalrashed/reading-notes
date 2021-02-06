@@ -91,7 +91,7 @@ HTML5 is introducing a new set of elements that help define the structure of a p
 **New HTML5 Layout:**
 
 
-![image](new.png)
+![image](new.PNG)
 
 
 
@@ -99,7 +99,7 @@ HTML5 is introducing a new set of elements that help define the structure of a p
 
 * Headers & Footers:
 
-![img](header.png)
+![img](header.PNG)
 
 * Navigation:
 
@@ -118,23 +118,23 @@ HTML5 is introducing a new set of elements that help define the structure of a p
 ![img](section.PNG)
 * Heading Groups:
 
-![img](headinggroups.png)
+![img](headinggroups.PNG)
 
 * Figures:
 
-![img](fig.png)
+![img](fig.PNG)
 
 * Sectioning Elements:
 
-![img](sectioninelements.png)
+![img](sectioninelements.PNG)
 
 * Linking Around Block-Level Elements:
 
-![img](linking.png)
+![img](linking.PNG)
 
 * Helping Older Browsers Understand:
 
-![img](helping.png)
+![img](helping.PNG)
 
 ## ***Extra Markup***
 
@@ -144,7 +144,7 @@ If you want to add a comment to your code that will not be visible in the user's
 can add the text between these characters:
 <!-- comment goes here -->
 
- ![img](doctype.png)
+ ![img](doctype.PNG)
 
  *ID ATTRIBUTE:* Every HTML element can carry the ID attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character).
 
@@ -161,7 +161,7 @@ way to identify several elements as being different from the other elements on t
 *BLOCK ELEMENTS:* Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 
 
-![img](Block.png)
+![img](Block.PNG)
 
 
 *INLINE ELEMENT:* Some elements will always appear to continue on the same line as their neighboring elements. These are known as inline elements.
@@ -178,14 +178,14 @@ way to identify several elements as being different from the other elements on t
 The most common reason why people use elements is so that they can control the appearance of the content of these elements using CSS.
 
 
-![img](span.png)
+![img](span.PNG)
 
 
 
 *IFRAMES:* An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
 
-![img](iframe.png)
+![img](iframe.PNG)
 
 
 
