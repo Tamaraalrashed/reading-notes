@@ -24,33 +24,40 @@
    1. DESIGN THE SCRIPT: To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle . This can be represented using a flowchart . You can then write down individual steps that the computer needs to perform in order to complete each individual task ( and any information it needs to perform the task ) , rather like writing a recipe that it can follow .
    1. CODE EACH STEP: Each of the steps needs to be written in a programming language that the computer understands.In our case , this is JavaScript.
 
-   ## EXPRESSIONS
-   ### ***An expression evaluates into ( results in a single value . Broadly speaking there are two types of expressions :***
+   ## ***EXPRESSIONS***
+   <br>
+    An expression evaluates into ( results in a single value . Broadly speaking there are two types of expressions :
+   <br>
    1. Expressions that just assign a value to a variable.
+   <br>
    >For example: var color = ' beige ' ; The value of color is now beige.
    1. expressions that use two or more values to return a single value.
    >For example : var area = 3 * 2 ; The value of area is now 6.
    <br>
-   ## OPERATORS
-   ### *** Expressions rely on things called operators ; they allow programmers to create a single value from one or more values***
+
+   ## ***OPERATORS***
+   <br>
+    Expressions rely on things called operators ; they allow programmers to create a single value from one or more values
 
    ### ***ARITHMETIC OPERATORS***
 
    ![img](mathoperator.PNG) 
+
    ### ***STRING OPERATOR There is just one string operator : the + symbol . It is used to join the strings on either side of it .***
 
    >For example , you might have a first and last name in two separate variables and want to join them to show a full name . In this example , the variable called fullName would hold the string ' Ivy Stone'.
 
    ![img](varstring.PNG)
-    ## FUNCTIONS & METHODS 
+    ## ***FUNCTIONS & METHODS*** 
     ### ***Functions consist of a series of statements that have been grouped together because they perform a specific task . A method is the same as a function , except methods are created inside and are part of an object.***
     ### ***Functions let you group a series of statements together to perform a specific task . If different parts of a script repeat the same task , you can reuse the function .***
 
     ### A BASIC FUNCTION
     ![img](declare.PNG)
     ![img](res-js.PNG)
-
     
+
+
 
 
 
