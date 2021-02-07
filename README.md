@@ -1,7 +1,5 @@
 
 
-## _I am Tamara,an electrical engineer who is want to use programming to improve my skills in my major._
-
 # **Growth Mindset**
 I've heard these words from more than one programmer, they said ***"We love problems, we are problems' solvers!"***
 
@@ -13,7 +11,7 @@ To keep up with the right way for growth mindset, I ‘ve some reminders make me
 -  **Don’t** avoid ***CHALLENGES***.
 -  **Success** of the others is inspiring and motivating me.
 
-> Today I used one of the reminders,[Shady's intelligence](https://github.com/shadykh) intelligence helped me a lot, many thanks Shady 😊
+> Today I used one of the reminders,[Shady's intelligence](https://github.com/shadykh) helped me a lot, many thanks Shady 😊
 
 ***
 
