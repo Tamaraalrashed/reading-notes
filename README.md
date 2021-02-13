@@ -1,7 +1,8 @@
 ## _Hello there, You are opening Tamara's Site, So welcome to my small World, here you can find my concluded ideas which I got from attending Software Development course._ 
 
 #  ***Code 102 Reading Notes***
-Topic          |URL
+
+Topic          | URL
 ------------ | -------------
 Growth Mindset | [Clickhere](./README) 
 Learning Mark down      |[Clickhere](./markdown)
