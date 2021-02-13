@@ -30,9 +30,9 @@
    <br>
    1. Expressions that just assign a value to a variable.
    <br>
-   >For example: var color = ' beige ' ; The value of color is now beige.
+   > For example: var color = ' beige ' ; The value of color is now beige.
    1. expressions that use two or more values to return a single value.
-   >For example : var area = 3 * 2 ; The value of area is now 6.
+   > For example : var area = 3 * 2 ; The value of area is now 6.
    <br>
 
    ## ***OPERATORS***

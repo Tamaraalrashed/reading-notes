@@ -54,7 +54,7 @@ A wireframe is a simple sketch of the key information that needs to go on each p
 
 *Example Wireframe*
 
-![image](Wirefareme.PNG)
+![image](./Wirefareme.PNG)
 
 ***GETTING YOUR MESSAGE ACROSS USING DESIGN***
 

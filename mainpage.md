@@ -10,6 +10,7 @@ Git remote      |[Clickhere](./Git-remote)
 HTML&CSS |  [Clickhere](./class-03)
 Java Script |  [Clickhere](./class-04)
  Operators and Loops | [Clickhere](./class-05)  
+ Functions | [Clickhere](./class-06)  
 
 
 

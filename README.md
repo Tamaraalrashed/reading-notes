@@ -1,29 +1,39 @@
+## _Hello there, You are opening Tamara's Site, So welcome to my small World, here you can find my concluded ideas which I got from attending Software Development course._ 
 
+#  ***Code 102 Reading Notes***
+Topic          |URL
+------------ | -------------
+Growth Mindset | [Clickhere](./README) 
+Learning Mark down      |[Clickhere](./markdown)
+Git remote      |[Clickhere](./Git-remote)
+HTML&CSS |  [Clickhere](./class-03)
+Java Script |  [Clickhere](./class-04)
+ Operators and Loops | [Clickhere](./class-05)  
+ Functions | [Clickhere](./class-06)  
 
-# **Growth Mindset**
-I've heard these words from more than one programmer, they said ***"We love problems, we are problems' solvers!"***
+#  ***Code 201 Reading Notes***
 
-So, I need to grow my mindset, which will help me to be more creative and to achieve more & higher goals. The most clear idea about growth mindset that one’s fundamental abilities can be developed.
+1.  [Introductory HTML and JavaScript](./Code201-class-01)
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 
-To keep up with the right way for growth mindset, I ‘ve some reminders make me more persevering:
-
-- **No pain, No gain** , which forced me to pay more efforts.
--  **Don’t** avoid ***CHALLENGES***.
--  **Success** of the others is inspiring and motivating me.
-
-> Today I used one of the reminders,[Shady's intelligence](https://github.com/shadykh) helped me a lot, many thanks Shady 😊
 
 ***
 
 
+To find me in **GitHub** [PressHere;)](https://github.com/Tamaraalrashed)
 
-
-
-
-
-
-
-
-
-
+### _COME BACK ALWAYS_
 
