@@ -1,4 +1,4 @@
-# ** Introductory HTML and JavaScript**
+# **Introductory HTML and JavaScript**
 
 ## How the web works:
 When you visit a website, the web server
