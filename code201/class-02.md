@@ -14,9 +14,9 @@ any subsequent paragraphs.
 
 - Bold & Italic: By enclosing words in the tags `<b>` and `</b> `we can make characters appear bold, and by enclosing words in the tags <i> and </i> we can make characters appear italic.
 
-![img](code201/images/bold.JPG)
+![img](./images/bold.JPG)
 
-![image](./code201/images/italic.JPG)
+![img](./images/super.JPG)
 
 - Superscript ans subscribt: The `<sup>` element is used
 to contain characters that should be superscript such as the suffixes of dates or mathematical concepts . 
@@ -24,15 +24,16 @@ The `<sub>` element is used to contain characters that should
 be subscript, it is commonly used with foot notes or chemical
 formulas.
 
-![img](/home/tamara/Reading-notes/code201/images/super.JPG)
+![img](./images/super.JPG)
 
 - White space: When the browser comes across
 two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing.
- ![img](/home/tamara/Reading-notes/code201/images/space.JPG)
+ ![img](./images/space.JPG)
 
  - Line breakscand horizontal rules: The browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag 
  `<br />`.
-![img](/home/tamara/Reading-notes/code201/images/br.JPG)
+ 
+![img](./images/br.JPG)
 
 
 
