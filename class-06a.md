@@ -8,10 +8,10 @@
 *In this example, the user is shown a message at the top of the pa/ge. The message is held in an HTML element whose id attribute has a value of message. The message is going to be changed using JavaScript.
 Before the closing  ``</body> `` tag , you can see the link to the JavaScript file. The JavaScript file starts with a variable used to hold a new message, and is followed by a function called updateMessage().*
 
-![img](images/funbasic-1.PNG)
+![img](code102/images/funbasic-1.PNG)
 
 
-![img](images/funbasic-2.PNG)
+![img](code102/images/funbasic-2.PNG)
 <br>
 
 
@@ -26,7 +26,7 @@ Before the closing  ``</body> `` tag , you can see the link to the JavaScript fi
 
 *To run the code in the function, you use the function name followed by parentheses.  In programmer - speak, you would say that this code calls a function.  You can call the same function as many times as you want within the same JavaScript file.*
 
-![img](images/calling-1.PNG)
+![img](code102/images/calling-1.PNG)
 
 ### ***DECLARING FUNCTIONS THAT NEED INFORMATION ***
  *Sometimes a function needs specific information to perform its task.  In such cases, when you declare the function you give it parameters.  Inside the function, the parameters act like variables.*
@@ -46,7 +46,7 @@ Before the closing  ``</body> `` tag , you can see the link to the JavaScript fi
 
 
 
-[Back to homepage](./mainpage.md)
+[Back to homepage](./README.md)
 
 
 
