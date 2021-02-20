@@ -1,6 +1,6 @@
-# Images, Color,and Text.
+# HTML Images, CSS Color  & Text.
 
-## Images:
+##  HTML Images:
 - Adding Images: <br>
 To add an image into the page
 you need to use an ``<img>``
@@ -60,7 +60,7 @@ figure Caption: <br>
 
 
 
-# Color:
+# CSS Color:
 Foreground Color:<br>
 - The color property allows you
 to specify the color of text inside
@@ -80,7 +80,7 @@ green, and blue. To find the color you want, you can use a color picker.<br>
 ![img](./images/understandingcolor.JPG)
 
 
-# Text:
+# CSS Text:
 You can specify typfaces  by : *font-family*, *font-size*, *font-weight*, *font-style*, *text-transform*, *text decoration*, *line-height*, and many other properities, here some of them as examples: <br>
 
 ![img](./images/letterspacing.JPG) <br>

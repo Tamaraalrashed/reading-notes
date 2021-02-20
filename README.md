@@ -19,7 +19,7 @@ Java Script |  [Clickhere](./class-04)
 1. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](./Code201-class-02)
 1. [HTML Lists, Control Flow with JS, and the CSS Box Model](./code201/class-03)
 1. [HTML Links, JS Functions, and Intro to CSS Layout](./code201/class-04)
-1. [ Images, Color,and Text.](./code201/class-05)
+1. [HTML Images, CSS Color  & Text.](./code201/class-05)
 1. 
 1. 
 1. 
