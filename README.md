@@ -35,7 +35,7 @@ Java Script |  [Clickhere](./class-04)
 ***
 
 
-To find me in **GitHub** [PressHere;)](https://github.com/Tamaraalrashed)
+To find me in **GitHub** [PressHere ;)](https://github.com/Tamaraalrashed)
 
 ### _COME BACK ALWAYS_
 
