@@ -3,12 +3,12 @@
 #  ***Code 102 Reading Notes***
 
      Table of content
-Topic          | URL
+Topic        | URL
 ------------ | -------------
 Growth Mindset | [Clickhere](./README) 
-Learning Mark down      |[Clickhere](./markdown)
-Git remote      |[Clickhere](./Git-remote)
-HTML&CSS |  [Clickhere](./class-03)
+Learning Mark down  | [Clickhere](./markdown)
+Git remote | [Clickhere](./Git-remote)
+HTML&CSS | [Clickhere](./class-03)
 Java Script |  [Clickhere](./class-04)
  Operators and Loops | [Clickhere](./class-05)  
  Functions | [Clickhere](./class-06)  
@@ -24,7 +24,7 @@ Java Script |  [Clickhere](./class-04)
 1. [Object-Oriented Programming, HTML Tables.](./code201/class-07)
 1.  [CSS Layout.](./code201/class-08)
 1. [Forms and JS Events](./code201/class-09)
-1. 
+1. [Debugging](./code201/class-10)
 1. 
 1. 
 1. 
