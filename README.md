@@ -15,8 +15,8 @@ Java Script |  [Clickhere](./class-04)
 
 #  ***Code 201 Reading Notes***
 
-1.  [Introductory HTML and JavaScript](./Code201-class-01)
-1. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](./Code201-class-02)
+1.  [Introductory HTML and JavaScript](./Code201/class-01)
+1. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](./Code201/class-02)
 1. [HTML Lists, Control Flow with JS, and the CSS Box Model](./code201/class-03)
 1. [HTML Links, JS Functions, and Intro to CSS Layout](./code201/class-04)
 1. [HTML Images, CSS Color  & Text.](./code201/class-05)
@@ -25,7 +25,7 @@ Java Script |  [Clickhere](./class-04)
 1.  [CSS Layout.](./code201/class-08)
 1. [Forms and JS Events](./code201/class-09)
 1. [Debugging.](./code201/class-10)
-1. 
+1. [Images & Practical Information.](./code201/class-11)
 1. 
 1. 
 1. 
