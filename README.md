@@ -2,16 +2,14 @@
 
 #  ***Code 102 Reading Notes***
 
-     Table of content
-Topic        | URL
------------- | -------------
-Growth Mindset | [Clickhere](./README) 
-Learning Mark down  | [Clickhere](./markdown)
-Git remote | [Clickhere](./Git-remote)
-HTML&CSS | [Clickhere](./class-03)
-Java Script |  [Clickhere](./class-04)
- Operators and Loops | [Clickhere](./class-05)  
- Functions | [Clickhere](./class-06)  
+     
+1. Growth Mindset | [Clickhere](./README) 
+1. Learning Mark down  | [Clickhere](./markdown)
+1. Git remote | [Clickhere](./Git-remote)
+1. HTML&CSS | [Clickhere](./class-03)
+1. Java Script |  [Clickhere](./class-04)
+1. Operators and Loops | [Clickhere](./class-05)  
+1. Functions | [Clickhere](./class-06)  
 
 #  ***Code 201 Reading Notes***
 
@@ -26,7 +24,7 @@ Java Script |  [Clickhere](./class-04)
 1. [Forms and JS Events](./code201/class-09)
 1. [Debugging.](./code201/class-10)
 1. [Images & Practical Information.](./code201/class-11)
-1. 
+1. [Chart.js, Canvas.](./code201/class-12)
 1. 
 1. 
 1. 
@@ -35,7 +33,7 @@ Java Script |  [Clickhere](./class-04)
 ***
 
 
-To find me in **GitHub** [PressHere ;)](https://github.com/Tamaraalrashed)
+To find me in **GitHub** [PressHere](https://github.com/Tamaraalrashed)
 
 ### _COME BACK ALWAYS_
 
