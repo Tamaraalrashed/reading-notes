@@ -3,13 +3,13 @@
 #  ***Code 102 Reading Notes***
 
      
-1. Growth Mindset | [Clickhere](./README) 
-1. Learning Mark down  | [Clickhere](./markdown)
-1. Git remote | [Clickhere](./Git-remote)
-1. HTML&CSS | [Clickhere](./class-03)
-1. Java Script |  [Clickhere](./class-04)
-1. Operators and Loops | [Clickhere](./class-05)  
-1. Functions | [Clickhere](./class-06)  
+1. Growth Mindset | [Clickhere]./code102/GrowthMindset) 
+1. Learning Mark down  | [Clickhere](./code102/markdown)
+1. Git remote | [Clickhere](./code102/Git-remote)
+1. HTML&CSS | [Clickhere](./code102/class-03)
+1. Java Script |  [Clickhere](./code102/class-04)
+1. Operators and Loops | [Clickhere](./code102/class-05)  
+1. Functions | [Clickhere](./code102/class-06)  
 
 #  ***Code 201 Reading Notes***
 
@@ -20,12 +20,12 @@
 1. [HTML Images, CSS Color  & Text.](./code201/class-05)
 1. [Problem Domain, Objects, and the DOM.](./code201/class-06)
 1. [Object-Oriented Programming, HTML Tables.](./code201/class-07)
-1.  [CSS Layout.](./code201/class-08)
+1. [CSS Layout.](./code201/class-08)
 1. [Forms and JS Events](./code201/class-09)
 1. [Debugging.](./code201/class-10)
 1. [Images & Practical Information.](./code201/class-11)
 1. [Chart.js, Canvas.](./code201/class-12)
-1. 
+1. [Local Storage.](./code201/class-13)
 1. 
 1. 
 

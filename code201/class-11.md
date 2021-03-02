@@ -151,4 +151,4 @@ Now open the CSS file and have a look inside. The CSS for the example is not too
 <br>
 
 
-[Back to homepage](./main/README.md)
+[Back to homepage](./README.md)
