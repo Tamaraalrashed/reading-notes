@@ -26,8 +26,8 @@
 1. [Images & Practical Information.](./code201/class-11)
 1. [Chart.js, Canvas.](./code201/class-12)
 1. [Local Storage.](./code201/class-13)
-1. 
-1. 
+1. [CSS Transforms, Transitions, and Animations](./code201/class-14a)
+1. [What Google Learned From Its Quest to Build the Perfect Team](./code201/class-14b)
 
 
 ***
