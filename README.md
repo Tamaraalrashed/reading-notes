@@ -1,9 +1,10 @@
+# Reading Notes
 ## _Hello there, You are opening Tamara's Site, So welcome to my small World, here you can find my concluded ideas which I got from attending Software Development course._ 
 
-#  ***Code 102 Reading Notes***
+- ## Code 102 - Intro to Software Development
 
      
-1. Growth Mindset | [Clickhere]./code102/GrowthMindset) 
+1. Growth Mindset | [Clickhere](./code102/GrowthMindset)
 1. Learning Mark down  | [Clickhere](./code102/markdown)
 1. Git remote | [Clickhere](./code102/Git-remote)
 1. HTML&CSS | [Clickhere](./code102/class-03)
@@ -11,7 +12,7 @@
 1. Operators and Loops | [Clickhere](./code102/class-05)  
 1. Functions | [Clickhere](./code102/class-06)  
 
-#  ***Code 201 Reading Notes***
+- ## Code 201 - Foundations of Software Development
 
 1.  [Introductory HTML and JavaScript](./Code201/class-01)
 1. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](./Code201/class-02)
@@ -30,10 +31,15 @@
 1. [What Google Learned From Its Quest to Build the Perfect Team](./code201/class-14b)
 
 
+<br>
+
+- ## Code 301 - Intermediate Software Development
+
+
 ***
 
 
-To find me in **GitHub** [PressHere](https://github.com/Tamaraalrashed)
+Find me in [GitHub](https://github.com/Tamaraalrashed)
 
 ### _COME BACK ALWAYS_
 

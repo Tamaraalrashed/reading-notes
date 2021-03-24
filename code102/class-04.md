@@ -1,6 +1,6 @@
 # ***Java Script***
 
-## _We need to open a website and use it easily, in other words we need something to interact with us while browsing, the anonymous soldier whose resposibilty is that interactive is JAVA SCRIPT LANGUAGE which we will talk about:_
+## _We need to open a website and use it easily, in other words we need something to interact with us while browsing, the anonymous soldier whose responsibility is that interactive is JAVA SCRIPT LANGUAGE which we will talk about:_
 
 -  **ACCESS CONTENT**: *You can use JavaScript to select any element attribute , or text from an HTML page .*
 - **MODIFY CONTENT**: *You can use JavaScript to add elements , attributes , and text to the page , or remove them . *
@@ -56,7 +56,7 @@
     ![img](declare.PNG)
     ![img](res-js.PNG)
     
-[Back to homepage](./mainpage.md)
+[Back to homepage](../readme.md)
 
 
 
