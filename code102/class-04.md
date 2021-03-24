@@ -56,7 +56,7 @@
     ![img](declare.PNG)
     ![img](res-js.PNG)
     
-[Back to homepage](../readme.md)
+[Back to homepage](../README.md)
 
 
 
