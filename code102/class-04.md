@@ -53,12 +53,10 @@
     ### ***Functions let you group a series of statements together to perform a specific task . If different parts of a script repeat the same task , you can reuse the function .***
 
     ### A BASIC FUNCTION
-    ![img](declare.PNG)
-    ![img](res-js.PNG)
+    ![img](./images/declare.PNG)
     
-[Back to homepage](../README.md)
-
-
+    ![img](./images/res-js.PNG)
+    
 
 
 
