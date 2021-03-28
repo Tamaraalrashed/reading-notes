@@ -34,7 +34,7 @@
 <br>
 
 - ## Code 301 - Intermediate Software Development:
-1. 
+1. [SMACSS and Responsive Web Design.](./code301/class-01)
 1. 
 1. 
 1. 
