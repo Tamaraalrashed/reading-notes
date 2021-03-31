@@ -27,8 +27,12 @@ Defines a grid template by referencing the names of the grid areas which are spe
  - `none` – no grid areas are defined.
 
  Example:
+![img](./img/grid1.JPG)
+<br>
 
 
+![img](./img/grid2.JPG)
+<br>
 
  - `grid-template`
 A shorthand for setting `grid-template-rows`, `grid-template-columns`, and `-grid-template-areas` in a single declaration.
