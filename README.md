@@ -36,8 +36,8 @@
 - ## Code 301 - Intermediate Software Development:
 1. [SMACSS and Responsive Web Design.](./code301/class-01)
 1. [JavaScript and jQuery, Pair Programming](./code301/class-02) 
-1.  [Mustache and Flexbox.](./code301/class-03)
-1. 
+1. [Mustache and Flexbox.](./code301/class-03)
+1. [CSS Grid.](./code301/class-04)
 1. 
 1. 
 1. 
