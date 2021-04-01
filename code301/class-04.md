@@ -27,6 +27,7 @@ Defines a grid template by referencing the names of the grid areas which are spe
  - `none` – no grid areas are defined.
 
  Example:
+ 
 ![img](./img/grid1.JPG)
 <br>
 

@@ -38,7 +38,7 @@
 1. [JavaScript and jQuery, Pair Programming](./code301/class-02) 
 1. [Mustache and Flexbox.](./code301/class-03)
 1. [CSS Grid.](./code301/class-04)
-1. 
+1. [Heroku Deployment.](./code301/class-05)
 1. 
 1. 
 1. 
