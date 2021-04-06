@@ -41,7 +41,7 @@
 1. [Heroku Deployment.](./code301/class-05)
 1. [Node JS.](./code301/class-06)
 1. [REST.](./code301/class-07)
-1. 
+1. [SQL.](./code301/class-08)
 1. 
 1. 
 
