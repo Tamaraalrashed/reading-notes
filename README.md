@@ -42,7 +42,7 @@
 1. [Node JS.](./code301/class-06)
 1. [REST.](./code301/class-07)
 1. [SQL.](./code301/class-08)
-1. 
+1. [Refactoring.](./code301/class-09)
 1. 
 
 
