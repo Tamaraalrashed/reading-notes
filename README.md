@@ -45,6 +45,7 @@
 1. [Refactoring.](./code301/class-09)
 1. [ The Call Stack and Debugging.](./code301/class-10)
 1. [ EJS.](./code301/class-11)
+1. [ Components.](./code301/class-12)
 
 - ## Code 401 - Advanced Software Development:
 1. 
