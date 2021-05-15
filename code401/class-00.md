@@ -100,21 +100,20 @@ You can use 5 Whys for troubleshooting, quality improvement, and problem solving
 **How to Use the 5 Whys** <br>
 
 1. Assemble a Team.
-2.  Define the Problem.
-3.  Ask the First "Why?"
-4.  Ask "Why?" Four More Times
+1.  Define the Problem.
+1.  Ask the First "Why?".
+1.  Ask "Why?" Four More Times.
 
-  The diagram, below, shows an example of 5 Whys in action, following a single lane of inquiry.
+     The diagram, below, shows an example of 5 Whys in  action, following a single lane of inquiry.
+      **Figure 1: 5 Whys Example (Single Lane)**
 
- **Figure 1: 5 Whys Example (Single Lane)**
+     ![img](./img/00-1.JPG) <br>
+     **Figure 2: 5 Whys Example (Multiple Lanes)**
+     ![img](./img/00-2.JPG) <br>
 
-![img](./img/00-1.JPG) <br>
- **Figure 2: 5 Whys Example (Multiple Lanes)**
-![img](./img/00-2.JPG) <br>
-
-5. Know When to Stop.
-6. Address the Root Cause(s).
-7. Monitor Your Measures.
+1. Know When to Stop.
+1. Address the Root Cause(s).
+1. Monitor Your Measures.
 
 he 5 Whys strategy is a simple, effective tool for uncovering the root of a problem. You can use it in troubleshooting, problem-solving, and quality-improvement initiatives.
 
