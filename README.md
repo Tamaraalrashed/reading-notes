@@ -32,7 +32,7 @@
 
 <br>
 
-- ## Code 301 - Intermediate Software Development
+ ## Code 301 - Intermediate Software Development
 
 1. [SMACSS and Responsive Web Design.](./code301/class-01)
 1. [JavaScript and jQuery, Pair Programming](./code301/class-02)
@@ -49,8 +49,9 @@
 1. [Update/Delete.](./code301/class-13)
 1. [Database Normalization.](./code301/class-14)
 
-- ## Code 401 - Advanced Software Development
+ ## Code 401 - Advanced Software Development
 
+1. [Basics for Programmers](./code401/class-00)
 1. [](./code401/class-01)
 2. [Express](./code401/class-02).
 3. [Express REST API](./code401/class-03).
