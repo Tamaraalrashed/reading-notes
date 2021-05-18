@@ -4,8 +4,7 @@
 
 1. Authenticate and authorization.
 2. Error Handling.
-3. Parameters.
-   
+3. Parameters validation.
 
 ## The route handler is middleware?
 False
