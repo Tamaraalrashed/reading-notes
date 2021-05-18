@@ -52,7 +52,6 @@
  ## Code 401 - Advanced Software Development
 
 1. [Basics for Programmers](./code401/class-00)
-1. [](./code401/class-01)
 2. [Express](./code401/class-02).
 3. [Express REST API](./code401/class-03).
 4. [Data Modeling](./code401/class-04).
