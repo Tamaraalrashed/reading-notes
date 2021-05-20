@@ -55,7 +55,7 @@
 2. [Express](./code401/class-02).
 3. [Express REST API](./code401/class-03).
 4. [Data Modeling](./code401/class-04).
-5. [Linked lists](./code401/class-07).
+5. [Linked lists](./code401/class-05).
 6. [Bearer Authorization](./code401/class-07).
 7. [Access Control (ACL)](./code401/class-08).
 8. [](./code401/class-09)
