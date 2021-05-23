@@ -56,14 +56,15 @@
 3. [Express REST API](./code401/class-03).
 4. [Data Modeling](./code401/class-04).
 5. [Linked lists](./code401/class-05).
-6. [Bearer Authorization](./code401/class-07).
-7. [Access Control (ACL)](./code401/class-08).
-8. [](./code401/class-09)
-9. [Event Driven Applications](./code401/class-11).
-10. [Socket.io](./code401/class-12).
-11. [Message Queues](./code401/class-13).
-12. [Event Driven Architecture](./code401/class-14).
-13. [AWS: Cloud Servers](./code401/class-16).
+6. [Authentication](./code401/class-06).
+7. [Bearer Authorization](./code401/class-07).
+8. [Access Control (ACL)](./code401/class-08).
+9. [](./code401/class-09)
+10. [Event Driven Applications](./code401/class-11).
+11. [Socket.io](./code401/class-12).
+12. [Message Queues](./code401/class-13).
+13. [Event Driven Architecture](./code401/class-14).
+14. [AWS: Cloud Servers](./code401/class-16).
 
 ***
 
