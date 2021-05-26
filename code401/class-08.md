@@ -57,24 +57,23 @@ The assignment of permission to perform a particular operation is meaningful, be
 
 ### 5 steps to simple role-based access control (RBAC)
 
-1. Inventory your systems
+  1. Inventory your systems
+   Figure out what resources you have for which you need to control access, if you don't already have them listed. Examples would include an email system, customer database, contact management system, major folders on a file server, etc. <br>
 
-Figure out what resources you have for which you need to control access, if you don't already have them listed. Examples would include an email system, customer database, contact management system, major folders on a file server, etc. 
 
-2. Analyze your workforce and create roles
+1. Analyze your workforce and create roles.
+   You need to group your workforce members into roles with common access needs.  Avoid the temptation to have too many roles defined. Keep them as simple and stratified as possible.
 
-You need to group your workforce members into roles with common access needs.  Avoid the temptation to have too many roles defined. Keep them as simple and stratified as possible.
+   For example, you might have a basic user role, which includes the access any employee would need, such as email and the intranet site. Another role might be a customer service rep, that would have read/write access to the customer database, and a customer database administrator, that would have full control of the customer database. <br>
 
-For example, you might have a basic user role, which includes the access any employee would need, such as email and the intranet site. Another role might be a customer service rep, that would have read/write access to the customer database, and a customer database administrator, that would have full control of the customer database. 
+1. Assign people to roles
 
-3. Assign people to roles
+   Now that you have a list of roles and their access rights, figure out which role(s) each employee belongs in, and set their access accordingly. 
 
-Now that you have a list of roles and their access rights, figure out which role(s) each employee belongs in, and set their access accordingly. 
+1. Never make one-off changes
 
-4. Never make one-off changes
+   Resist any temptation to make a one-off change for an employee with unusual needs. If you begin doing this, your RBAC system will quickly begin to unravel. Change the roles as required or add new ones when really necessary. 
 
-Resist any temptation to make a one-off change for an employee with unusual needs. If you begin doing this, your RBAC system will quickly begin to unravel. Change the roles as required or add new ones when really necessary. 
+1. Audit
 
-5. Audit
-
-Periodically review your roles, the employees assigned to them, and the access permitted for each. If you discover, for example, that a role has unnecessary access to a particular system, change the role and adjust the access level for all employees in that role. 
+   Periodically review your roles, the employees assigned to them, and the access permitted for each. If you discover, for example, that a role has unnecessary access to a particular system, change the role and adjust the access level for all employees in that role. 
