@@ -61,7 +61,7 @@
 6. [Authentication](./code401/class-06).
 7. [Bearer Authorization](./code401/class-07).
 8. [Access Control (ACL)](./code401/class-08).
-9. [OAuth](./code401/class-10)
+9. [OAuth](./code401/class-09)
 10. [Event Driven Applications](./code401/class-11).
 11. [Socket.io](./code401/class-12).
 12. [Message Queues](./code401/class-13).
