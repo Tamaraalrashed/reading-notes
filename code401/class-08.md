@@ -57,7 +57,7 @@ The assignment of permission to perform a particular operation is meaningful, be
 
 ### 5 steps to simple role-based access control (RBAC)
 
-  1. Inventory your systems
+1. Inventory your systems
    Figure out what resources you have for which you need to control access, if you don't already have them listed. Examples would include an email system, customer database, contact management system, major folders on a file server, etc. <br>
 
 

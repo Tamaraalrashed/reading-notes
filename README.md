@@ -32,7 +32,8 @@
 
 <br>
 
- ## Code 301 - Intermediate Software Development
+
+## Code 301 - Intermediate Software Development
 
 1. [SMACSS and Responsive Web Design.](./code301/class-01)
 1. [JavaScript and jQuery, Pair Programming](./code301/class-02)
@@ -49,7 +50,8 @@
 1. [Update/Delete.](./code301/class-13)
 1. [Database Normalization.](./code301/class-14)
 
- ## Code 401 - Advanced Software Development
+
+## Code 401 - Advanced Software Development
 
 1. [Basics for Programmers](./code401/class-00)
 2. [Express](./code401/class-02).
@@ -59,7 +61,7 @@
 6. [Authentication](./code401/class-06).
 7. [Bearer Authorization](./code401/class-07).
 8. [Access Control (ACL)](./code401/class-08).
-9. [](./code401/class-09)
+9. [OAuth](./code401/class-10)
 10. [Event Driven Applications](./code401/class-11).
 11. [Socket.io](./code401/class-12).
 12. [Message Queues](./code401/class-13).
