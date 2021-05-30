@@ -29,7 +29,7 @@ Authorization is the function of specifying access rights/privileges to resource
 is an approach to restricting system access to authorized users. It is used by the majority of enterprises with more than 500 employees, and can implement mandatory access control (MAC) or discretionary access control (DAC).
 
 ### Capabilities
- A capability is a communicable, unforgettable token of authority. It refers to a value that references an object along with an associated set of access rights. A user program on a capability-based operating system must use a capability to access an object.
+ A capability is a communicable, unforgettable token of authority. It refers to a value that references an object along with an associated set of access rights. A user program on a capability-based operating system must use a capability to access an object.  <br>
 
  ## Preparation Materials
 
@@ -51,6 +51,8 @@ We access the EventEmitter class through the `events `module. Once imported weâ€
 const myEventEmitter = new EventEmitter;
 ```
 
+<br>
+
 #### Much of the Node.js core API is built around an idiomatic asynchronous event-driven architecture in which certain kinds of objects (called "emitters") emit named events that cause Function objects ("listeners") to be called.
 <br>
 
@@ -58,7 +60,8 @@ All objects that emit events are instances of the `EventEmitter` class. These ob
 
 When the EventEmitter object emits an event, all of the functions attached to that specific event are called synchronously. Any values returned by the called listeners are ignored and discarded. <br>
 
-Example:
+Example:<br>
+
 ```
 const EventEmitter = require('events');
 
