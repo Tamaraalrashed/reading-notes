@@ -47,9 +47,11 @@ Node.js natively provides us with a useful module called EventEmitter that allow
 
 We access the EventEmitter class through the `events `module. Once imported we’ll need to create a new object from the class to start using it.
 
-```const EventEmitter = require('events').EventEmitter;
+```
+const EventEmitter = require('events').EventEmitter;
 const myEventEmitter = new EventEmitter;
 ```
+
 
 <br>
 
