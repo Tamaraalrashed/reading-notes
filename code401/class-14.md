@@ -1,4 +1,4 @@
-# AWS: Cloud Servers
+# Event Driven Architecture
 
 ## Review, Research, and Discussion
 
