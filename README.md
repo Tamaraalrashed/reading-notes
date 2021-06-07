@@ -67,7 +67,7 @@
 12. [Message Queues](./code401/class-13).
 13. [Event Driven Architecture](./code401/class-14).
 14. [AWS: Cloud Servers](./code401/class-16).
-
+15. [AWS: S3 and Lambda](./code401/class-17).
 ***
 
 Find me in ***[GitHub]*** :sweat_smile: (<https://github.com/Tamaraalrashed>)
