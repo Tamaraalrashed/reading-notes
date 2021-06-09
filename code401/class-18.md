@@ -79,7 +79,7 @@ DynamoDB is a hosted NoSQL database offered by Amazon Web Services (AWS). It off
   - Serverless Web Apps.
   - Mobile Backends.
   - Microservices.
-- 
+
 
 
 
