@@ -68,9 +68,9 @@
 13. [Event Driven Architecture](./code401/class-14).
 14. [AWS: Cloud Servers](./code401/class-16).
 15. [AWS: S3 and Lambda](./code401/class-17).
-15. [API, Dynamo and Lambda](./code401/class-18).
-16. [AWS: Events](./code401/class-19).
-
+16. [API, Dynamo and Lambda](./code401/class-18).
+17. [AWS: Events](./code401/class-19).
+18. [Component Based UI](./code401/class-26).
 
 ***
 
