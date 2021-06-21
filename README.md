@@ -71,6 +71,7 @@
 16. [API, Dynamo and Lambda](./code401/class-18).
 17. [AWS: Events](./code401/class-19).
 18. [Component Based UI](./code401/class-26).
+19. [Props and State](./code401/class-27).
 
 ***
 
