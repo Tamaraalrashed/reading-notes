@@ -72,7 +72,7 @@
 17. [AWS: Events](./code401/class-19).
 18. [Component Based UI](./code401/class-26).
 19. [Props and State](./code401/class-27).
-
+20. [Component Composition](./code401/class-28).
 ***
 
 Find me in ***[GitHub]*** :sweat_smile: (<https://github.com/Tamaraalrashed>)
