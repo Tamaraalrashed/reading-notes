@@ -74,7 +74,7 @@
 19. [Props and State](./code401/class-27).
 20. [Component Composition](./code401/class-28).
 21. [Routing](./code401/class-29).
-
+22. [Hooks API](./code401/class-31).
 
 ***
 
