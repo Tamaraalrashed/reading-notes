@@ -77,6 +77,7 @@
 22. [Hooks API](./code401/class-31).
 23. [Custom Hooks](./code401/class-32).
 24. [Context API](./code401/class-33).
-***
+25. [`<Login />` and `<Auth />`](./code401/class-34).
+
 
 Find me in ***[GitHub]*** :sweat_smile: (<https://github.com/Tamaraalrashed>)
