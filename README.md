@@ -79,6 +79,7 @@
 24. [Context API](./code401/class-33).
 25. [`<Login />` and `<Auth />`](./code401/class-34).
 26. [Application State with Redux](./code401/class-36).
+27. [ Combined Reducers](./code401/class-37).
 
 
 Find me in ***[GitHub]*** :sweat_smile: (<https://github.com/Tamaraalrashed>)
