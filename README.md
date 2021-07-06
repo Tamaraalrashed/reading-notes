@@ -81,6 +81,7 @@
 26. [Application State with Redux](./code401/class-36).
 27. [ Combined Reducers](./code401/class-37).
 28. [ Redux - Asynchronous Actions](./code401/class-38).
+29. [ Redux - Toolkit](./code401/class-39).
 
 
 Find me in ***[GitHub]*** :sweat_smile: (<https://github.com/Tamaraalrashed>)
