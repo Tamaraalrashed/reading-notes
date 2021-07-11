@@ -1,4 +1,4 @@
-# Redux - Toolkit
+# React Native
 
 ## Review, Research, and Discussion
 

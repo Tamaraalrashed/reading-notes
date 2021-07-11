@@ -82,6 +82,7 @@
 27. [ Combined Reducers](./code401/class-37).
 28. [ Redux - Asynchronous Actions](./code401/class-38).
 29. [ Redux - Toolkit](./code401/class-39).
+30. [React Native](./code401/class-41).
 
 
 Find me in ***[GitHub]*** :sweat_smile: (<https://github.com/Tamaraalrashed>)
